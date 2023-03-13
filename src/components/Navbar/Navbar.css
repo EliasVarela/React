@@ -1,0 +1,13 @@
+
+.Titulo {display: flex;
+    font-size: 30px;
+    color: rgb(196, 95, 95);
+}
+
+.Divcont{ display: block ;
+    justify-content: center;
+    margin: 25px;
+}
+.Nabvar{
+    display: flex;
+}
