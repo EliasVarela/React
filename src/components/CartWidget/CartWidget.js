@@ -6,7 +6,7 @@ const CartWidget = ()=>{
     <div className="IconoCarr">
         <img src={cart} alt="icono-carrito" />
         0
-    </div>
+    </div> 
     )
 }
 export default CartWidget
